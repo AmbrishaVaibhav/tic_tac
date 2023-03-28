@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tic_tac</string>
+    <string name="resource_id">"The Page Currently Selected is %d$1"</string>
+</resources>
